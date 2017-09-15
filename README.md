@@ -11,4 +11,4 @@ This line is added with Xcode! :tada: :pizza:
 
 This line is added with Atom! :sparkles: :pizza:  
 
-More changes
+More changes :smile: :sparkles:
