@@ -11,3 +11,4 @@ This line is added with Atom! :sparkles: :pizza:
 
 This line is added with IDEA! :sparkles: :pizza:
 
+Test in master branch
